@@ -3,10 +3,12 @@ Foodborne illnesses are often unreported and preventable public health issue. Th
 
 # Objective
 Collaboration between FDA (Food and Drug Administration) and FSIS (Food Safety and Inspection Service) to determine locations nationwide most at risk of acquiring foodborne illnesses, especially communities of color, communities affected by poverty, etc and protect the public health across the United States via product recalls, outbreak advisories, educational materials, and passage of major legislation to protect consumers 
-	## Questions:
-Are foodborne disease outbreaks increasing or decreasing over time? 
-What contaminant has been responsible for the most illnesses/hospitalizations? 
-Which states has the highest incidence of foodborne illnesses?
-What location for food preparation poses the greatest risk of foodborne illness?
-Where do people in the US most commonly report food-related conditions?
+
+Questions:
+
+- Are foodborne disease outbreaks increasing or decreasing over time? 
+- What contaminant has been responsible for the most illnesses/hospitalizations? 
+- Which states has the highest incidence of foodborne illnesses?
+- What location for food preparation poses the greatest risk of foodborne illness?
+- Where do people in the US most commonly report food-related conditions?
 			
