@@ -12,3 +12,5 @@ Questions:
 - What location for food preparation poses the greatest risk of foodborne illness?
 - Where do people in the US most commonly report food-related conditions?
 			
+# Dataset
+Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that contains information about foodborne pathogen outbreaks across the United States, common pathogen types attributed to illness, and hospitalization, and mortality.
