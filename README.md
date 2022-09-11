@@ -15,15 +15,15 @@ Questions:
 # Dataset
 Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that contains information about foodborne pathogen outbreaks across the United States, common pathogen types attributed to illness, and hospitalization, and mortality. https://www.kaggle.com/datasets/cdc/foodborne-diseases
 
-#Challenges 
--Trying to navigate dbeaver 
--I had a lot of specific questions that required a specialized search and trying get answers was slightly difficult 
--There was a lot of blank data values so trying to ensure that it didn’t skew the data was a slight challenge. Having a more detailed checklist to examine the data more thoroughly is the plan moving forward, because I caught a few blank in the pivot tables I made, which showed me where I missed the blank values
+# Challenges 
+- Trying to navigate dbeaver 
+- I had a lot of specific questions that required a specialized search and trying get answers was slightly difficult 
+- There was a lot of blank data values so trying to ensure that it didn’t skew the data was a slight challenge. Having a more detailed checklist to examine the data more thoroughly is the plan moving forward, because I caught a few blank in the pivot tables I made, which showed me where I missed the blank values
 
-#Summary
-
-
-#Next steps-
+# Summary
 
 
-#Recommendations
+# Next steps-
+
+
+# Recommendations
