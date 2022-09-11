@@ -23,7 +23,8 @@ Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that c
 - Filtered out blank/null values
 
 # Challenges 
-- Importing the Kaggle CSV file into Dbeaver in order to perform querying (After a few Google searches and playing around with the software, I was able to inport the table into Dbeaver) 
+- Importing the Kaggle CSV file into Dbeaver in order to perform querying 
+(After a few Google searches and playing around with the software, I was able to import the table into Dbeaver) 
 - I had a lot of specific questions that required a specialized search and trying get answers was slightly difficult because the searches were not exactly the answer (The searches provided a lot of new ideas that I hadn't thought of to help me with my problems and so I was able to put together a more custom game plan which worked several times)
 - There was a lot of blank data values so trying to ensure that it didn’t skew the data was a slight challenge. Having a more detailed checklist to examine the data more thoroughly is the plan moving forward, because I caught a few blank in the pivot tables I made, which showed me where I missed the blank values
 
