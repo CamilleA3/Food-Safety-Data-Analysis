@@ -18,10 +18,8 @@ Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that c
 # Steps executed during dataset evaluation
 - Uploaded datasets to MySQL to look over dataset and query via SQL 
 - Made a duplicate excel workbook
-- Removed incomplete data values
-- ***Ingredients column (>90% incomplete)***
-- Checked for and removed duplicate values
-- ***Removed 283 duplicates leaving 18836 unique values***
+- Removed incomplete data values: ***Ingredients column (>90% incomplete)***
+- Checked for and removed duplicate values: ***Removed 283 duplicates leaving 18836 unique values***
 - Filtered out blank/null values
 
 # Challenges 
