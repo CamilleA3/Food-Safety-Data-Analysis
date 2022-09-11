@@ -35,6 +35,13 @@ Apple
     the family Rosaceae.
 :   An American computer company.
 
+<dl>
+<dt>Apple</dt>
+<dd>
+<p>Pomaceous fruit of plants of the genus Malus in 
+the family Rosaceae.</p>
+</dd>
+	
 # Summary
 
 
