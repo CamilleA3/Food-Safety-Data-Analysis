@@ -15,6 +15,15 @@ Questions:
 # Dataset
 Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that contains information about foodborne pathogen outbreaks across the United States, common pathogen types attributed to illness, and hospitalization, and mortality. https://www.kaggle.com/datasets/cdc/foodborne-diseases
 
+# Steps executed during dataset evaluation
+- Uploaded datasets to MySQL to look over dataset and query via SQL 
+- Made a duplicate excel workbook
+- Removed incomplete data values
+- ***Ingredients column (>90% incomplete)***
+- Checked for and removed duplicate values
+- ***Removed 283 duplicates leaving 18836 unique values***
+- Filtered out blank/null values
+
 # Challenges 
 - Trying to navigate dbeaver 
 - I had a lot of specific questions that required a specialized search and trying get answers was slightly difficult 
