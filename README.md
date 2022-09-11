@@ -48,7 +48,7 @@ Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that c
 # Summary
 
 
-# Next steps-
+# Next steps
 
 
 # Recommendations
