@@ -29,20 +29,20 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <dd>
 <p> After a few Google searches and playing around with the software, I was able to import the table into Dbeaver
 </p>
-</dd>
+</dd> </dl>
 
 <dl>
 <dt>I had a lot of specific questions that required a specialized search and trying get answers was slightly difficult because the searches were not exactly the answer  </dt>
 <dd>
 <p>The searches provided a lot of new ideas that I hadn't thought of to help me with my problems and so I was able to put together a more custom game plan which worked several times</p>
-</dd>
+</dd> </dl>
 
 <dl>
 <dt>There was a lot of blank data values so trying to ensure that it didn’t skew the data was a slight challenge</dt>
 <dd>
 <p>Having a more detailed checklist to examine the data more thoroughly is the plan moving forward, because I caught a few blank in the pivot tables I made, which showed me where I missed the blank values</p>
-</dd>
-
+</dd> </dl>
+	
 # Visualization 
 <img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 
