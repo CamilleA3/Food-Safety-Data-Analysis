@@ -48,19 +48,19 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 
 <img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 	
-<img src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png width="75%" height="75%" />
+<img src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
 
-<img src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png width="75%" height="75%" />
+<img src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="75%" height="75%" />
 
-![Figure 4_Location of Food Prep with Total Illnesses](https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png)
+<img src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
 
-![Figure 5_Total Hospitalizations by Microbial Species](https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png)
+<img src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
 
-![Figure 6_Number of Hospitalizations based on Food Type](https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png)
+<img src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
 
-![Figure 7_Confirmed Deaths based on Microbial Species](https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png)
-
-![Figure 8_Sum of Fatalities over Time_1998_2015](https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png)
+<img src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
+	
+<img src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
 
 ![Image 1_SQL query_Sum of Illnesses for 2004 organized by month](https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png)
 
