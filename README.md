@@ -1,5 +1,5 @@
 # Project background and Relevance
-Foodborne illnesses are often unreported and preventable public health issue. These illnesses are a challenge by contributing significantly to the cost of healthcare and can disproportionately affect certain groups of people. Children under the age of 4 have a greater incidence of foodborne pathogens, including Campylobacter, Cryptosporidium, Salmonella, Escherichia coli O157. The older population (50+) and those with compromised immune systems are also at greater risk for hospitalization and death from pathogens commonly transmitted through food. The FDA and FSIS are Federal agencies responsible for overseeing food safety and regulating the food industry through inspections and enforcement. In the event of an outbreak, these institutions respond swiftly to control it, find out why it occurred and look for ways to prevent future outbreaks.
+Foodborne illnesses are often unreported and preventable public health issue. These illnesses are a challenge by contributing significantly to the cost of healthcare and can disproportionately affect certain groups of people. Children under the age of 4 have a greater incidence of foodborne pathogens, including <em>Campylobacter, Cryptosporidium, Salmonella, Escherichia coli O157</em>. The older population (50+) and those with compromised immune systems are also at greater risk for hospitalization and death from pathogens commonly transmitted through food. The FDA and FSIS are Federal agencies responsible for overseeing food safety and regulating the food industry through inspections and enforcement. In the event of an outbreak, these institutions respond swiftly to control it, find out why it occurred and look for ways to prevent future outbreaks.
 
 # Objective
 Collaboration between FDA (Food and Drug Administration) and FSIS (Food Safety and Inspection Service) to determine locations nationwide most at risk of acquiring foodborne illnesses, especially communities of color, communities affected by poverty, etc and protect the public health across the United States via product recalls, outbreak advisories, educational materials, and passage of major legislation to protect consumers 
@@ -107,7 +107,7 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
-<p align="center">***Salmonella enterica*** is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. </p>
+<p align="center"><em>Salmonella enterica</em> is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. </p>
 <br>	
 <br>
 <br>
