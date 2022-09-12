@@ -46,17 +46,24 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 # Visualization 
 
 <!--Figure 1_Sum of Illnesses by Month--><img align="left" src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
-<p align="right">April displays the highest average sum of illnesses with May and June in close proximity of incidence. The warmer months with excess heat will be a contributary factor in the onset of foodborne illnesses due to the faster spoilage of foods. These months are consistent with grilling, picnics, and barbeques where it is a common practice for foods to be out for extended periods of time.</p>
+<p align="right">April displays the highest average sum of illnesses with May and June in close proximity of incidence. The warmer months with excess heat will be a contributary factor in the onset of foodborne illnesses due to the faster spoilage of foods. These months are consistent with grilling, picnics, and barbeques where it is a common practice for foods to be out for extended periods of time. The type of food can also be an indicator for the season where the onset is more common
+November and December also displays a peak in illnesses which can be expected considering people are cooking more for the holiday season.</p>
+
 
 <!--Figure 2_Line graph of illnesses over time_1998_2015--><img src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
 
+
 <!--Figure 3_Total Illnesses by State--><img src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="70%" height="70%" />
+
 
 <!--Figure 4_Location of Food Prep with Total Illnesses--><img src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
 
+
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
 
+
 <!--Figure 6_Number of Hospitalizations based on Food Type--><img src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
+
 
 <!--Figure 7_Confirmed Deaths based on Microbial Species--><img src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
 	
