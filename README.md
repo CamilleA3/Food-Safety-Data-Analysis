@@ -141,6 +141,10 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 <!--Image 1_SQL query_Sum of Illnesses for 2004 organized by month--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png" width="30%" height="30%"/>
 <p align="right">Performed a query for the year 2004 which displayed the sum of illnesses organized by month</p>
 <br>
@@ -155,7 +159,14 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <p align="center">Performed a query detailing the sum of hospitalizations, illnesses, and fatalities for the state with the greatest incidence of illness.</p>
 </div>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. These months are consistent with grilling, picnics, and barbeques where it is a common practice for foods to be out for extended periods of time. The type of food can also be an indicator for the season where the onset is more common;
