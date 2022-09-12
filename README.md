@@ -45,6 +45,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 	
 # Visualization 
 <div>
+<br>
 <!--Figure 1_Sum of Illnesses by Month--><img align="left" src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 <p align="right">April displays the highest average sum of illnesses with May and June in close proximity of incidence. The warmer months with excess heat will be a contributary factor in the onset of foodborne illnesses due to the faster spoilage of foods.</p>
 
@@ -98,8 +99,6 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <!--Figure 4_Location of Food Prep with Total Illnesses--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
 <p align="right">Restaurants and School settings are the highest ranking in location. They might be sourcing meats, vegetables, fruits, etc from a different supplier/distribution center than the other locations.</p>
-<br>
-<br>
 <br>
 <br>
 <br>
