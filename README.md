@@ -67,8 +67,8 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <br>
 <!--Figure 3_Total Illnesses by State--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="70%" height="70%" />
 <p align="right">Even when accounting for the growth of populations over time and the population size of different states, California has a significantly greater incidence of foodborne illnesses.
-<br>
-Minnesota (21) and Wisconsin (20) are not within the top 10 states with the highest population size and yet and one of the top states with higher incidence.North Carolina had a much lower sum of illnesses despite being being a top 10 state according to population size</p>
+	
+Minnesota (21) and Wisconsin (20) are not within the top 10 states with the highest population size and yet and one of the top states with higher incidence. North Carolina had a much lower sum of illnesses despite being being a top 10 state according to population size</p>
 <br>
 <br>
 <br>
@@ -123,6 +123,13 @@ There was a significantly lower number of hospitalizations compared to illnesses
 <br>
 <!--Image 1_SQL query_Sum of Illnesses for 2004 organized by month--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png" width="30%" height="30%"/>
 <p align="right">Performed a query for the year 2004 which displayed the sum of illnesses organized by month</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="55%" height="55%" />
 <p align="right">Performed a query detailing the sum of hospitalizations, illnesses, and fatalities for the state with the greatest incidence of illness.</p>
