@@ -46,7 +46,8 @@ Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that c
 </dd>
 
 # Visualization 
-	
+[Figure1](C:\Users\HP\OneDrive\Coding_WebDeveloping Intro\SQL-Excel-Tableau-R\PROJECT 1)
+
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. The most popular food type supports this idealism because Turkey and Stuffing caused the greatest number of hospitalizations, and these foods are commonly eaten in the late fall, early winter months. 
 The incidence of sickness is on the decline as shown on Figure _ which might be attributed to better awareness and preventative measures established by patrons to reduce infection. The summation of deaths 1998-2015 does not reflect an overall trend downward. The periodic fluctuation indicates a range of 7-45 people succumbing to foodborne illnesses. 2011 was a outlier with 45 mortalities while the other years plateauing at 23 deaths. 
