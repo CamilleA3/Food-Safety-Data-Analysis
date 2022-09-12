@@ -47,7 +47,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <div>
 <br>
 <!--Figure 1_Sum of Illnesses by Month--><img align="left" src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
-<p align="justify">April displays the highest average sum of illnesses with May and June in close proximity of incidence. The warmer months with excess heat will be a contributary factor in the onset of foodborne illnesses due to the faster spoilage of foods.</p>
+<p align="center">April displays the highest average sum of illnesses with May and June in close proximity of incidence. The warmer months with excess heat will be a contributary factor in the onset of foodborne illnesses due to the faster spoilage of foods.</p>
 
 <br>
 <br>
@@ -60,7 +60,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <br>
 <br>
 <!--Figure 2_Line graph of illnesses over time_1998_2015--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
-<p align="justify">From the start of this study, there was a downward trend of illnesses until 2003 where in the span of 1 year, the incidence increase drastically for the year 2004 which has the highest quantity of illnesses. There was a sharp decline in case in 2005, but they increased again for 2006. The next 9 years had an overall decreasing trend with a slight peak in 2015.</p>
+<p align="center">From the start of this study, there was a downward trend of illnesses until 2003 where in the span of 1 year, the incidence increase drastically for the year 2004 which has the highest quantity of illnesses. There was a sharp decline in case in 2005, but they increased again for 2006. The next 9 years had an overall decreasing trend with a slight peak in 2015.</p>
 <br>
 <br>
 <br>
