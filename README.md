@@ -51,28 +51,45 @@ November and December also displays a peak in illnesses which can be expected co
 
 
 <!--Figure 2_Line graph of illnesses over time_1998_2015--><img src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
+From the start of this study, there was a downward trend of illnesses until 2003 where in the span of 1 year, the incidence increase drastically for the year 2004 which has the highest quantity of illnesses. There was a sharp decline in case in 2005, but they increased again for 2006. The next 9 years had an overall decreasing trend with a slight peak in 2015.
 
 
 <!--Figure 3_Total Illnesses by State--><img src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="70%" height="70%" />
+Even when accounting for the growth of populations over time and the population size of different states, California has a significantly greater incidence of foodborne illnesses 
 
+Minnesota (21) and Wisconsin (20) are not within the top 10 states with the highest population size and yet and one of the top states with higher incidence 
+
+North Carolina had a much lower sum of illnesses despite being being a top 10 state according to population size
 
 <!--Figure 4_Location of Food Prep with Total Illnesses--><img src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
+Restaurants and School settings are the highest ranking in location. They might be sourcing meats, vegetables, fruits, etc from a different supplier/distribution center than the other locations. An alternative explanation is the food might be in storage longer allowing contamination. For example, restaurants and schools with buffet style serving method where the food is sitting out for extended periods of time. 
 
+A future inquiry might be to try to see how the food is stored, distrubuted and received in restaurants and how they are being quality controlled to ensure freshness.
 
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
+Salmonella enterica is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. 
 
+Since it is usually transmitted via animal feces, it might be useful for food locations to be cognizant of washing certain foods such as fruits and vegetables. Some bacteria can be spread via contaminated food and even in the fridge so it is important to remember hygiene/food safety.
+
+E. coli (STEC) is the next common reason for hospitalization which is expected due to the simplicity of transmission. You can acquire this illness via contaminated food/ water and/or poor hand hygiene.  
 
 <!--Figure 6_Number of Hospitalizations based on Food Type--><img src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
+Roasted turkey and stuffing was found to be responsible for increased hospitalization which makes sense because the bacteria responsible could have been found in those foods. It is important to notate that the second highest quantity of hospitalizations was responsible for an unknown food source. It can be difficult to positively identify the source because people eat a lot of different foods from different areas. Also, the onset of symptoms is not always sudden and as time passes, it is harder to identify a main source.
+
+There was a significantly lower number of hospitalizations compared to illnesses but it is important to recognize that illnesses can escalate, especially if the patient is immunocompromised/ at-risk.
 
 
 <!--Figure 7_Confirmed Deaths based on Microbial Species--><img src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
-	
-<!--Figure 8_Sum of Fatalities over Time_1998_2015--><img src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
+While Listeria had a lower hospitalization rate, the amount of deaths was significantly higher. Salmonella enterica also had a high quantity of deaths but lower  hospitalizations.
 
+<!--Figure 8_Sum of Fatalities over Time_1998_2015--><img src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
+The death toll was had a high variety across the 17 years of data accumulated. There were major peaks and valleys with the highest increase occuring in 2011. It is unclear to say that there is a clear trend upwards or downwards.
 
 <!--Image 1_SQL query_Sum of Illnesses for 2004 organized by month--> <img src="https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png" width="30%" height="30%"/>
+Performed a query for the year 2004 which displayed the sum of illnesses organized by month
 
 <!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> <img src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="55%" height="55%" />
+Performed a query detailing the sum of hospitalizations, illnesses, and fatalities for the state with the greatest incidence of illness. 
 
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. The most popular food type supports this idealism because Turkey and Stuffing caused the greatest number of hospitalizations, and these foods are commonly eaten in the late fall, early winter months. 
