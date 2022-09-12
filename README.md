@@ -44,27 +44,27 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 </dd> </dl>
 	
 # Visualization 
-<img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
+<!-- --><img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 
-<img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
+<!-- --><img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 	
-<img src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
+<!-- --><img src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
 
-<img src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="75%" height="75%" />
+<!--Figure 3_Total Illnesses by State--><img src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="75%" height="75%" />
 
-<img src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
+<!--Figure 4_Location of Food Prep with Total Illnesses--><img src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
 
-<img src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
+<!--Figure 5_Total Hospitalizations by Microbial Species--><img src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
 
-<img src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
+<!--Figure 6_Number of Hospitalizations based on Food Type--><img src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
 
-<img src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
+<!--Figure 7_Confirmed Deaths based on Microbial Species--><img src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
 	
-<img src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
+<!--Figure 8_Sum of Fatalities over Time_1998_2015--><img src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
 
-![Image 1_SQL query_Sum of Illnesses for 2004 organized by month](https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png)
+<!--Image 1_SQL query_Sum of Illnesses for 2004 organized by month--> <img src="https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png" width="75%" height="75%"/>
 
-![Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California](https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png)
+<!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> img src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="75%" height="75%" />
 
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. The most popular food type supports this idealism because Turkey and Stuffing caused the greatest number of hospitalizations, and these foods are commonly eaten in the late fall, early winter months. 
