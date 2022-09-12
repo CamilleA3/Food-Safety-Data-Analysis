@@ -118,6 +118,8 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
+<br>
+<br>
 <!--Figure 7_Confirmed Deaths based on Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
 <p align="center">While Listeria had a lower hospitalization rate, the amount of deaths was significantly higher. Salmonella enterica also had a high quantity of deaths but lower  hospitalizations.</p>
 <br>
@@ -127,6 +129,11 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <!--Figure 8_Sum of Fatalities over Time_1998_2015--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
 <p align="center">The death toll was had a high variety across the 17 years of data accumulated. There were major peaks and valleys with the highest increase occuring in 2011. It is unclear to say that there is a clear trend upwards or downwards.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <!--Image 1_SQL query_Sum of Illnesses for 2004 organized by month--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png" width="30%" height="30%"/>
 <p align="right">Performed a query for the year 2004 which displayed the sum of illnesses organized by month</p>
