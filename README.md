@@ -74,6 +74,18 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--Figure 4_Location of Food Prep with Total Illnesses--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
 <p align="right">Restaurants and School settings are the highest ranking in location. They might be sourcing meats, vegetables, fruits, etc from a different supplier/distribution center than the other locations. An alternative explanation is the food might be in storage longer allowing contamination. For example, restaurants and schools with buffet style serving method where the food is sitting out for extended periods of time. 
 
