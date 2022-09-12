@@ -94,7 +94,7 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <!--Figure 4_Location of Food Prep with Total Illnesses--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
-<p align="justify">Restaurants and School settings are the highest ranking in location. They might be sourcing meats, vegetables, fruits, etc from a different supplier/distribution center than the other locations.</p>
+<p align="center">Restaurants and School settings are the highest ranking in location. They might be sourcing meats, vegetables, fruits, etc from a different supplier/distribution center than the other locations.</p>
 <br>
 <br>
 <br>
@@ -107,11 +107,7 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
-<p align="center">Salmonella enterica is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations.
-
-Since it is usually transmitted via animal feces, it might be useful for food locations to be cognizant of washing certain foods such as fruits and vegetables. Some bacteria can be spread via contaminated food and even in the fridge so it is important to remember hygiene/food safety.
-
-E. coli (STEC) is the next common reason for hospitalization which is expected due to the simplicity of transmission. You can acquire this illness via contaminated food/ water and/or poor hand hygiene.  </p>
+<p align="center">Salmonella enterica is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. </p>
 <br>	
 <br>
 <br>
@@ -165,6 +161,7 @@ The incidence of sickness is on the decline as shown on Figure _ which might be 
 California had the greatest sum of illnesses by a significant factor in comparison to the other states. A point of bias that I wanted to mitigate was that the population size for all 50 states vary greatly. So, to confirm that according to population size, California was the greatest as well as the other states, I looked at the 2000 and 2010 census. After looking at the top 10 states, I expected to see them reflected in Figure_ with the highest total incidence of illness. This was not the case for all 10 states. Minnesota, ranked as #21, and Wisconsin (#20) were within the top 10 states showing a higher incidence of illnesses despite a lower population size.
 
 For restaurants and universities, the food might be in storage longer allowing contamination. For example, restaurants and schools with buffet style serving method where the food is sitting out for extended periods of time. A future inquiry might be to try to see how the food is stored, distrubuted and received in restaurants and how they are being quality controlled to ensure freshness.
+Since it is usually transmitted via animal feces, it might be useful for food locations to be cognizant of washing certain foods such as fruits and vegetables. Some bacteria can be spread via contaminated food and even in the fridge so it is important to remember hygiene/food safety. E. coli (STEC) is the next common reason for hospitalization which is expected due to the simplicity of transmission. You can acquire this illness via contaminated food/ water and/or poor hand hygiene. 
 # Next steps
 dddddddddddddddddd
 
