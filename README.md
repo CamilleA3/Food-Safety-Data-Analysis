@@ -133,11 +133,6 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <!--Figure 8_Sum of Fatalities over Time_1998_2015--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
 <p align="center">The death toll was had a high variety across the 17 years of data accumulated. There were major peaks and valleys with the highest increase occuring in 2011. It is unclear to say that there is a clear trend upwards or downwards.</p>
 <br>
