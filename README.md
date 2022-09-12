@@ -44,7 +44,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 </dd>
 
 # Visualization 
-![Figure 1_Sum of Illnesses by Month](https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png)
+<img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 
 <img src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 	
