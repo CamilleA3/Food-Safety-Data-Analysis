@@ -107,7 +107,7 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
-<p align="center">*Salmonella enterica* is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. </p>
+<p align="center">***Salmonella enterica*** is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. </p>
 <br>	
 <br>
 <br>
