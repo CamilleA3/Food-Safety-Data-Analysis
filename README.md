@@ -46,7 +46,7 @@ Downloaded Foodborne Disease Outbreaks, 1998-2015 dataset the from Kaggle that c
 </dd>
 
 # Visualization 
-[Figure1](C:\Users\HP\OneDrive\Coding_WebDeveloping Intro\SQL-Excel-Tableau-R\PROJECT 1)
+![Figure 1_Sum of Illnesses by Month](https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png)
 
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. The most popular food type supports this idealism because Turkey and Stuffing caused the greatest number of hospitalizations, and these foods are commonly eaten in the late fall, early winter months. 
