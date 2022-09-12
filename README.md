@@ -64,7 +64,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 
 <!--Image 1_SQL query_Sum of Illnesses for 2004 organized by month--> <img src="https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png" width="75%" height="75%"/>
 
-<!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> img src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="75%" height="75%" />
+<!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> <img src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="75%" height="75%" />
 
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. The most popular food type supports this idealism because Turkey and Stuffing caused the greatest number of hospitalizations, and these foods are commonly eaten in the late fall, early winter months. 
