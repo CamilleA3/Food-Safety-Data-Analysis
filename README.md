@@ -66,7 +66,8 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <br>
 <br>
 <!--Figure 3_Total Illnesses by State--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="70%" height="70%" />
-<p align="right">Even when accounting for the growth of populations over time and the population size of different states, California has a significantly greater incidence of foodborne illnesses.
+<p align="right">
+Even when accounting for the growth of populations over time and the population size of different states, California has a significantly greater incidence of foodborne illnesses.
 	
 Minnesota (21) and Wisconsin (20) are not within the top 10 states with the highest population size and yet and one of the top states with higher incidence. North Carolina had a much lower sum of illnesses despite being being a top 10 state according to population size</p>
 <br>
