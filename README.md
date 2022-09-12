@@ -1,5 +1,3 @@
-<p style="color:blue">Make this text blue.</p>
-
 # Project background and Relevance
 Foodborne illnesses are often unreported and preventable public health issue. These illnesses are a challenge by contributing significantly to the cost of healthcare and can disproportionately affect certain groups of people. Children under the age of 4 have a greater incidence of foodborne pathogens, including Campylobacter, Cryptosporidium, Salmonella, Escherichia coli O157. The older population (50+) and those with compromised immune systems are also at greater risk for hospitalization and death from pathogens commonly transmitted through food. The FDA and FSIS are Federal agencies responsible for overseeing food safety and regulating the food industry through inspections and enforcement. In the event of an outbreak, these institutions respond swiftly to control it, find out why it occurred and look for ways to prevent future outbreaks.
 
@@ -55,6 +53,7 @@ The incidence of sickness is on the decline as shown on Figure _ which might be 
 California had the greatest sum of illnesses by a significant factor in comparison to the other states. A point of bias that I wanted to mitigate was that the population size for all 50 states vary greatly. So, to confirm that according to population size, California was the greatest as well as the other states, I looked at the 2000 and 2010 census. After looking at the top 10 states, I expected to see them reflected in Figure_ with the highest total incidence of illness. This was not the case for all 10 states. Minnesota, ranked as #21, and Wisconsin (#20) were within the top 10 states showing a higher incidence of illnesses despite a lower population size.
 
 # Next steps
-
+dddddddddddddddddd
 
 # Recommendations
+ddddddddddddddddddddddddddd
