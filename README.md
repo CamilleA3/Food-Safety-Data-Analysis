@@ -13,7 +13,7 @@ Questions:
 - Where do people in the US most commonly report food-related conditions?
 			
 # Dataset
-Downloaded [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kaggle.com/datasets/cdc/foodborne-diseases) from Kaggle that contains information about foodborne pathogen outbreaks across the United States, common pathogen types attributed to illness, and hospitalization, and mortality. 
+Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kaggle.com/datasets/cdc/foodborne-diseases) from Kaggle that contains information about foodborne pathogen outbreaks across the United States, common pathogen types attributed to illness, and hospitalization, and mortality. 
 
 # Steps executed during dataset evaluation
 - Transformed Excel file into a CSV file 
