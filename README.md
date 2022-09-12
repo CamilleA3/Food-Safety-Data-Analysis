@@ -67,7 +67,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <br>
 <!--Figure 3_Total Illnesses by State--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="70%" height="70%" />
 <p align="right">Even when accounting for the growth of populations over time and the population size of different states, California has a significantly greater incidence of foodborne illnesses.
-
+<br>
 Minnesota (21) and Wisconsin (20) are not within the top 10 states with the highest population size and yet and one of the top states with higher incidence.North Carolina had a much lower sum of illnesses despite being being a top 10 state according to population size</p>
 <br>
 <br>
@@ -79,6 +79,13 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 
 A future inquiry might be to try to see how the food is stored, distrubuted and received in restaurants and how they are being quality controlled to ensure freshness.</p>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
 <p align="right">Salmonella enterica is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations.
 
@@ -86,14 +93,30 @@ Since it is usually transmitted via animal feces, it might be useful for food lo
 
 E. coli (STEC) is the next common reason for hospitalization which is expected due to the simplicity of transmission. You can acquire this illness via contaminated food/ water and/or poor hand hygiene.  </p>
 <br>	
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--Figure 6_Number of Hospitalizations based on Food Type--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
 <p align="right">Roasted turkey and stuffing was found to be responsible for increased hospitalization which makes sense because the bacteria responsible could have been found in those foods. It is important to notate that the second highest quantity of hospitalizations was responsible for an unknown food source. It can be difficult to positively identify the source because people eat a lot of different foods from different areas. Also, the onset of symptoms is not always sudden and as time passes, it is harder to identify a main source.
 
 There was a significantly lower number of hospitalizations compared to illnesses but it is important to recognize that illnesses can escalate, especially if the patient is immunocompromised/ at-risk.</p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <!--Figure 7_Confirmed Deaths based on Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
 <p align="right">While Listeria had a lower hospitalization rate, the amount of deaths was significantly higher. Salmonella enterica also had a high quantity of deaths but lower  hospitalizations.</p>
+<br>
+<br>
+<br>
+<br>
 <br>
 <!--Figure 8_Sum of Fatalities over Time_1998_2015--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704420-ce9faa38-1a44-4e4e-8742-5cd0865745ea.png" width="75%" height="75%" />
 <p align="right">The death toll was had a high variety across the 17 years of data accumulated. There were major peaks and valleys with the highest increase occuring in 2011. It is unclear to say that there is a clear trend upwards or downwards.</p>
