@@ -118,10 +118,11 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
-<br>
-<br>
 <!--Figure 7_Confirmed Deaths based on Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
 <p align="center">While Listeria had a lower hospitalization rate, the amount of deaths was significantly higher. Salmonella enterica also had a high quantity of deaths but lower  hospitalizations.</p>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
