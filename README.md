@@ -44,7 +44,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 </dd> </dl>
 	
 # Visualization 
-
+<div>
 <!--Figure 1_Sum of Illnesses by Month--><img align="left" src="https://user-images.githubusercontent.com/99365065/189703428-ed73e01d-aaff-42b4-92c0-d498c4a44c03.png" width="75%" height="75%" />
 <p align="right">April displays the highest average sum of illnesses with May and June in close proximity of incidence. The warmer months with excess heat will be a contributary factor in the onset of foodborne illnesses due to the faster spoilage of foods.</p>
 
@@ -90,11 +90,8 @@ Performed a query for the year 2004 which displayed the sum of illnesses organiz
 
 <!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="55%" height="55%" />
 Performed a query detailing the sum of hospitalizations, illnesses, and fatalities for the state with the greatest incidence of illness. 
-<br>
-<br>
-<br>
-<br>
-<br>
+</div>
+
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. These months are consistent with grilling, picnics, and barbeques where it is a common practice for foods to be out for extended periods of time. The type of food can also be an indicator for the season where the onset is more common;
 November and December also displays a peak in illnesses which can be expected considering people are cooking more for the holiday season. The most popular food type supports this idealism because Turkey and Stuffing caused the greatest number of hospitalizations, and these foods are commonly eaten in the late fall, early winter months. 
