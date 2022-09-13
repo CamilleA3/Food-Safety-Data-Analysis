@@ -70,6 +70,12 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 Roasted turkey and stuffing was found to be responsible for increased hospitalization which makes sense because the bacteria responsible could have been found in those foods. The second highest quantity of hospitalizations was responsible for an unknown food source. It can be difficult to identify the source because people eat a lot of different foods from different areas. Also, the onset of symptoms is not always sudden and as time passes, it is harder to identify a main source.
 <br>
 <br>
