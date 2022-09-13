@@ -32,7 +32,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <br>
 <br>
 <!--Figure 2_Line graph of illnesses over time_1998_2015--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
-<p align="center">From the start of this study, there was a downward trend of illnesses until 2003 where in the span of 1 year, the incidence increase drastically for the year 2004 which has the highest quantity of illnesses. There was a sharp decline in case in 2005, but they increased again for 2006. The next 9 years had an overall decreasing trend with a slight peak in 2015.</p>
+<p align="center">From the start of this study, there was a downward trend of illnesses until 2003 where in the span of 1 year, the incidence increase drastically for the year 2004 which has the highest quantity of illnesses. There was a sharp decline in case in 2005, but they increased again for 2006.</p>
 <br>
 <br>
 <br>
@@ -46,39 +46,14 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <!--Figure 4_Location of Food Prep with Total Illnesses--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
 <p align="center">Restaurants and School settings are the highest ranking in location. They might be sourcing meats, vegetables, fruits, etc from a different supplier/distribution center than the other locations.</p>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
 <p align="center"><em>Salmonella enterica</em> is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. </p>
 <br>	
-<br>
-<br>
-<br>
 <br>
 <br>
 <!--Figure 6_Number of Hospitalizations based on Food Type--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
