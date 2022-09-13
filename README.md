@@ -44,8 +44,12 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
+<br>
+<br>
 <!--Figure 4_Location of Food Prep with Total Illnesses--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704435-0a4b0b9f-4c5a-4a61-a9cc-a3edb38bc091.png" width="75%" height="75%" />
 <p align="center">Restaurants and School settings are the highest ranking in location. They might be sourcing meats, vegetables, fruits, etc from a different supplier/distribution center than the other locations.</p>
+<br>
+<br>
 <br>
 <br>
 <br>
