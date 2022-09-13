@@ -22,26 +22,6 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 - Removed incomplete data values: ***Ingredients column (>90% incomplete)***
 - Checked for and removed duplicate values: ***Removed 283 duplicates leaving 18836 unique values***
 - Filtered out blank/null values
-
-# Challenges 
-<dl>
-<dt>Importing the Kaggle CSV file into Dbeaver in order to perform querying</dt>
-<dd>
-<p> After a few Google searches and playing around with the software, I was able to import the table into Dbeaver
-</p>
-</dd> </dl>
-
-<dl>
-<dt>I had a lot of specific questions that required a specialized search and trying get answers was slightly difficult because the searches were not exactly the answer  </dt>
-<dd>
-<p>The searches provided a lot of new ideas that I hadn't thought of to help me with my problems and so I was able to put together a more custom game plan which worked several times</p>
-</dd> </dl>
-
-<dl>
-<dt>There was a lot of blank data values so trying to ensure that it didn’t skew the data was a slight challenge</dt>
-<dd>
-<p>Having a more detailed checklist to examine the data more thoroughly is the plan moving forward, because I caught a few blank in the pivot tables I made, which showed me where I missed the blank values</p>
-</dd> </dl>
 	
 # Visualization 
 <div>
@@ -197,6 +177,25 @@ The incidence of sickness is on the decline as shown on Figure 2 which might be 
 
 California had the greatest sum of illnesses by a significant factor in comparison to the other states. A point of bias that I wanted to mitigate was that the population size for all 50 states vary greatly. So, to confirm that according to population size, California was the greatest as well as the other states, I looked at the 2000 and 2010 census. After looking at the top 10 states, I expected to see them reflected in Figure_ with the highest total incidence of illness. This was not the case for all 10 states. Minnesota, ranked as #21, and Wisconsin (#20) were within the top 10 states showing a higher incidence of illnesses despite a lower population size.
 
+# Challenges 
+<dl>
+<dt>Importing the Kaggle CSV file into Dbeaver in order to perform querying</dt>
+<dd>
+<p> After a few Google searches and playing around with the software, I was able to import the table into Dbeaver
+</p>
+</dd> </dl>
+
+<dl>
+<dt>I had a lot of specific questions that required a specialized search and trying get answers was slightly difficult because the searches were not exactly the answer  </dt>
+<dd>
+<p>The searches provided a lot of new ideas that I hadn't thought of to help me with my problems and so I was able to put together a more custom game plan which worked several times</p>
+</dd> </dl>
+
+<dl>
+<dt>There was a lot of blank data values so trying to ensure that it didn’t skew the data was a slight challenge</dt>
+<dd>
+<p>Having a more detailed checklist to examine the data more thoroughly is the plan moving forward, because I caught a few blank in the pivot tables I made, which showed me where I missed the blank values</p>
+</dd> </dl>
 
 # Next steps/ Recommendations
 
