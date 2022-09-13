@@ -161,6 +161,12 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="55%" height="55%" />
 <p align="center">Performed a query detailing the sum of hospitalizations, illnesses, and fatalities for the state with the greatest incidence of illness.</p>
 </div>
