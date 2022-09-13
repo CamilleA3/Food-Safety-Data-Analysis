@@ -88,11 +88,8 @@ Roasted turkey and stuffing was found to be responsible for increased hospitaliz
 <br>
 <br>
 <br>
-<br>
 <!--Image 1_SQL query_Sum of Illnesses for 2004 organized by month--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704423-8bc83e5e-f300-463f-a0d8-8267e9eeed5f.png" width="30%" height="30%"/>
 <p align="right">Performed a query for the year 2004 which displayed the sum of illnesses organized by month</p>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -111,8 +108,6 @@ Roasted turkey and stuffing was found to be responsible for increased hospitaliz
 <!--Image 2_SQL query_Sum of Illnesses_Hospitalizations_Fatalities for State of California--> <img align="left" src="https://user-images.githubusercontent.com/99365065/189704425-e737174f-b27f-466b-9b0f-da8cb3055ec2.png" width="55%" height="55%" />
 <p align="center">Performed a query detailing the sum of hospitalizations, illnesses, and fatalities for the state with the greatest incidence of illness.</p>
 </div>
-<br>
-<br>
 <br>
 <br>
 <br>
