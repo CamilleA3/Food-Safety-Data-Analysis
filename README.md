@@ -193,16 +193,16 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 # Summary
 There appears to be a relationship between the time of year and food type that is responsible for the onset of illness. The summer (April/May/June) and holiday seasons (November and December) exhibit a higher number of sick people. These months are consistent with grilling, picnics, and barbeques where it is a common practice for foods to be out for extended periods of time. The type of food can also be an indicator for the season where the onset is more common;
 November and December also displays a peak in illnesses which can be expected considering people are cooking more for the holiday season. The most popular food type supports this idealism because Turkey and Stuffing caused the greatest number of hospitalizations, and these foods are commonly eaten in the late fall, early winter months. 
-The incidence of sickness is on the decline as shown on Figure _ which might be attributed to better awareness and preventative measures established by patrons to reduce infection. The summation of deaths 1998-2015 does not reflect an overall trend downward. The periodic fluctuation indicates a range of 7-45 people succumbing to foodborne illnesses. 2011 was a outlier with 45 mortalities while the other years plateauing at 23 deaths. 
+The incidence of sickness is on the decline as shown on Figure 2 which might be attributed to better awareness and preventative measures established by patrons to reduce infection. The summation of deaths 1998-2015 does not reflect an overall trend downward. The periodic fluctuation indicates a range of 7-45 people succumbing to foodborne illnesses. 2011 was a outlier with 45 mortalities while the other years plateauing at 23 deaths. 
 
 California had the greatest sum of illnesses by a significant factor in comparison to the other states. A point of bias that I wanted to mitigate was that the population size for all 50 states vary greatly. So, to confirm that according to population size, California was the greatest as well as the other states, I looked at the 2000 and 2010 census. After looking at the top 10 states, I expected to see them reflected in Figure_ with the highest total incidence of illness. This was not the case for all 10 states. Minnesota, ranked as #21, and Wisconsin (#20) were within the top 10 states showing a higher incidence of illnesses despite a lower population size.
 
+
+# Next steps/ Recommendations
+
 For restaurants and universities, the food might be in storage longer allowing contamination. For example, restaurants and schools with buffet style serving method where the food is sitting out for extended periods of time. A future inquiry might be to try to see how the food is stored, distrubuted and received in restaurants and how they are being quality controlled to ensure freshness.
+
 Since it is usually transmitted via animal feces, it might be useful for food locations to be cognizant of washing certain foods such as fruits and vegetables. Some bacteria can be spread via contaminated food and even in the fridge so it is important to remember hygiene/food safety. E. coli (STEC) is the next common reason for hospitalization which is expected due to the simplicity of transmission. You can acquire this illness via contaminated food/ water and/or poor hand hygiene. 
 
-There was a significantly lower number of hospitalizations compared to illnesses but it is important to recognize that illnesses can escalate, especially if the patient is immunocompromised/ at-risk.
-# Next steps
-dddddddddddddddddd
+There was a significantly lower number of hospitalizations compared to illnesses but it is important to recognize that illnesses can escalate, especially if the patient is immunocompromised/ at-risk. I would want to look into data describing how long patients were ill before going to the hospital in order to reduce hospitalizations and eventually deaths.
 
-# Recommendations
-ddddddddddddddddddddddddddd
