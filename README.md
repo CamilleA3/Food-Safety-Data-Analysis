@@ -34,7 +34,6 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <!--Figure 2_Line graph of illnesses over time_1998_2015--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
 <p align="center">From the start of this study, there was a downward trend of illnesses until 2003 where in the span of 1 year, the incidence increase drastically for the year 2004 which has the highest quantity of illnesses. There was a sharp decline in case in 2005, but they increased again for 2006.</p>
 <br>
-<br>
 <!--Figure 3_Total Illnesses by State--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704432-46ac1269-8704-4899-ba3f-1250e15c603a.png" width="70%" height="70%" />
 <p align="center">
 When accounting for the growth of populations over time and the population size of different states, California has a significantly greater incidence of foodborne illnesses.
