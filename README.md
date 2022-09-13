@@ -58,11 +58,9 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <br>
 <br>
-<br>
 <!--Figure 5_Total Hospitalizations by Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704412-f425b44a-9849-4587-97d0-7af9fc385014.png" width="75%" height="75%" />
 <p align="center"><em>Salmonella enterica</em> is a generalized bacterial strain in that it is housed in several food types (chicken, pork, beef, fruits, vegetables, eggs, processed food) so it would be a common species associated with hospitalizations. </p>
 <br>	
-<br>
 <br>
 <!--Figure 6_Number of Hospitalizations based on Food Type--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704416-d724702a-997b-4999-a904-ae4c2ed43739.png" width="75%" height="75%" />
 Roasted turkey and stuffing was found to be responsible for increased hospitalization which makes sense because the bacteria responsible could have been found in those foods. The second highest quantity of hospitalizations was responsible for an unknown food source. It can be difficult to identify the source because people eat a lot of different foods from different areas. Also, the onset of symptoms is not always sudden and as time passes, it is harder to identify a main source.
