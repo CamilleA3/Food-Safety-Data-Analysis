@@ -35,6 +35,7 @@ Downloaded the [Foodborne Disease Outbreaks, 1998-2015 dataset](https://www.kagg
 <br>
 <br>
 <br>
+<br>
 <!--Figure 2_Line graph of illnesses over time_1998_2015--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704430-fb83ab93-9b64-4c74-850b-f2021dc25d13.png" width="75%" height="75%" />
 <p align="center">From the start of this study, there was a downward trend of illnesses until 2003 where in the span of 1 year, the incidence increase drastically for the year 2004 which has the highest quantity of illnesses. There was a sharp decline in case in 2005, but they increased again for 2006. The next 9 years had an overall decreasing trend with a slight peak in 2015.</p>
 <br>
@@ -93,6 +94,7 @@ Minnesota (21) and Wisconsin (20) are not within the top 10 states with the high
 <br>
 <!--Figure 7_Confirmed Deaths based on Microbial Species--><img align="left" src="https://user-images.githubusercontent.com/99365065/189704418-4a087b13-b4b5-4765-9f3e-b018724b1aa0.png" width="75%" height="75%" />
 <p align="center">While Listeria had a lower hospitalization rate, the amount of deaths was significantly higher. Salmonella enterica also had a high quantity of deaths but lower  hospitalizations.</p>
+<br>
 <br>
 <br>
 <br>
